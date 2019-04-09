@@ -1,10 +1,10 @@
+NOTICE: The source for this repository is private since we paid for a few character models, but we're not sure about licensing around sharing those assets publicly.
+
 # Project Undercover
 
 ![](images/title-screen.png)
 
 _Based on Spy Party and Mafia_
-
-NOTICE: The source for this repository is private since we paid for a few character models, but we're not sure about licensing around sharing those assets publicly.
 
 ### Developers
 
