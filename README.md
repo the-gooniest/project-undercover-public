@@ -1,4 +1,4 @@
-NOTICE: The source for this repository is private since we paid for a few character models, but we're not sure about licensing around sharing those assets publicly.
+*NOTICE: The source for this repository is private since we paid for a few character models, but we're not sure about licensing around sharing those assets publicly.*
 
 # Project Undercover
 
